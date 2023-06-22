@@ -3,5 +3,6 @@
         "*.h": "c",
         "cstdint": "c",
         "cstdlib": "c"
-    }
+    },
+    "editor.insertSpaces": false
 }
